@@ -80,6 +80,6 @@ Activities for Team 2
 Development.
 -------------
 
-This solution designed and developed by Uche Ojukwu. 
+
 
 
